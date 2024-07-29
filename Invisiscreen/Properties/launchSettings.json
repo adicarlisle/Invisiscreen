@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Invisiscreen (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Invisiscreen (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
